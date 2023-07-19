@@ -5,6 +5,10 @@ Requerimientos:
 
 Se desarrolló en PySpark,
 
+Ventajas:
+- Actualmente el código está parametrizado para poder recibir más archivos .csv, solo necesitamos agregar .csv nuevos según requerimiento y modificar el archivo structureSchema.py la cual solicita definir el *esquema* y el *path*
+
+
 Primero, 
 - Descomprimir el archivo *1. local* , luego abrir Intellij IDEA y abrir proyecto *covid19_spark* 
 
