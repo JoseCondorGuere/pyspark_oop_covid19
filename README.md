@@ -54,7 +54,7 @@ Primero
 
 ![Alt text](/img/image2.png)
 
-Segundo, es necesario en crear la carpeta "data"
+Segundo, es necesario en crear la carpeta "data" y subir los 6 archivos .csv en la carpeta
 
 ![imimg.png](/img/img.png)
 
