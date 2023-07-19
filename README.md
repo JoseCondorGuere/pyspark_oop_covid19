@@ -6,7 +6,7 @@ Requerimientos:
 Se desarrolló en PySpark,
 
 Ventajas:
-- Actualmente el código está parametrizado para poder recibir más archivos .csv, solo necesitamos agregar .csv nuevos según requerimiento y modificar el archivo structureSchema.py la cual solicita definir el *esquema* y el *path*
+- Actualmente el código está parametrizado para poder recibir más archivos .csv, solo necesitamos agregar .csv en la carpeta *data* y modificar el archivo structureSchema.py la cual solicita definir el *schema* y el *path* , se explica la estructura post configuración de ambiente.
 
 
 Primero, 
