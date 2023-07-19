@@ -6,7 +6,7 @@ Requerimientos:
 Se desarrolló en PySpark,
 
 Primero, 
-- Abrir Intellij IDEA y abrir el proyecto *covid19_spark*
+- Descomprimir el archivo *1. local* , luego abrir Intellij IDEA yen ella abriran el proyecto *covid19_spark* 
 
 ![Alt text](/img/image3.png)
 
